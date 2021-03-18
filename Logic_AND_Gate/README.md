@@ -6,7 +6,7 @@ This code example shows how to configure the Configurable Custom Logic (CCL) per
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
-- [TB3218-Getting Started with Configurable Custom Logic (CCL)](http://ww1.microchip.com/downloads/en/Appnotes/TB3218-Getting-Started-with-CCL-90003218A.pdf)
+- [TB3218-Getting Started with Configurable Custom Logic (CCL)](https://ww1.microchip.com/downloads/en/Appnotes/TB3218-Getting-Started-with-CCL-DS90003218.pdf)
 - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
